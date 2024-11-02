@@ -1,0 +1,13 @@
+.listItem{
+    display: flex;
+    justify-content: space-between;
+    width: 20vw;
+}
+
+.navbar{
+    background: transparent !important;
+    position: sticky !important;
+    top: 0.5vh !important;
+    max-height: 45px !important;
+    color: #000 !important;
+}
